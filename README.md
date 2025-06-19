@@ -13,6 +13,13 @@ Real-time anomaly detection for credit card transactions using Isolation Forest 
 - FastAPI backend
 - Simulator script to test streaming
 
+### 📥 Dataset (Not Included in Repo)
+
+To use the full credit card dataset:
+
+- Download it from: [Kaggle Credit Card Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- Save it as: `app/data/creditcard.csv`
+
 ## ▶️ Run the app
 
 ```bash
