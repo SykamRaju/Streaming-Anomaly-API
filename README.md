@@ -6,6 +6,18 @@ Streaming Anomaly API
 
 Real-time anomaly detection for credit card transactions using Isolation Forest and FastAPI.
 
+## 🚀 Project Summary
+
+Real-time anomaly detection API using Isolation Forest on credit card transactions. Accepts live data and returns if it's an anomaly based on trained model.
+
+- ✅ FastAPI backend
+- ✅ Live simulation using Python script
+- ✅ Deployed on Render (free tier)
+
+## 🛰️ Live Demo
+
+Test the API at: 👉 [https://streaming-anomaly-api.onrender.com/docs](https://streaming-anomaly-api.onrender.com/docs)
+
 ## 🧠 Features
 
 - Live anomaly detection via REST API
