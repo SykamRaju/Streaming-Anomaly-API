@@ -71,9 +71,25 @@ python app/simulator.py
 
 ## 🚀 Run Locally
 
-### Backend (FastAPI)
+### Clone the repository and install dependencies.
+
+### 1. Backend API (FastAPI)
 
 ```bash
 cd app/
+pip install -r ../requirements.txt
 uvicorn main:app --reload
 ```
+
+- Open browser at: [http://localhost:8000/docs](http://localhost:8000/docs) - Test `/predict` endpoint via Swagger UI
+
+---
+
+### 2. Frontend Dashboard (Streamlit)
+
+```bash
+cd dashboard
+streamlit run main.py
+```
+
+- This will open the Streamlit UI at: [http://localhost:8501](http://localhost:8501) - Click “Generate Transaction” to simulate predictions and highlight anomalies
