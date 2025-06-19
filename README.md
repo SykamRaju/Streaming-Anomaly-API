@@ -36,8 +36,9 @@ To use the full credit card dataset:
 
 ### Screenshots
 
-![Streamlit UI](https://raw.githubusercontent.com/SykamRaju/Streaming-Anomaly-API/refs/heads/main/app/static/screenshot2.png)
 ![FastAPI Backend (Swagger UI)](https://raw.githubusercontent.com/SykamRaju/Streaming-Anomaly-API/refs/heads/main/app/static/screenshot1.png)
+
+![Streamlit UI](https://raw.githubusercontent.com/SykamRaju/Streaming-Anomaly-API/refs/heads/main/app/static/screenshot2.png)
 
 ## ▶️ Run the app
 
