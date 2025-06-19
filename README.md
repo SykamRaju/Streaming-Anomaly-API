@@ -6,14 +6,14 @@ Real-time anomaly detection for credit card transactions using Isolation Forest 
 
 Real-time anomaly detection API using Isolation Forest on credit card transactions. Accepts live data and returns if it's an anomaly based on trained model.
 
-- ✅ FastAPI backend
-- ✅ Live simulation using Python script
-- ✅ Deployed on Render (free tier)
-
 ![Python](https://img.shields.io/badge/Made%20With-Python-blue)
 ![FastAPI](https://img.shields.io/badge/API-FastAPI-green)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-orange)
 ![Deployed](https://img.shields.io/badge/Hosted%20On-Render%20+%20Streamlit-brightgreen)
+
+- ✅ FastAPI backend
+- ✅ Live simulation using Python script
+- ✅ Deployed on Render (free tier)
 
 ## 🛰️ Live Demo
 
