@@ -6,7 +6,7 @@ import os
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "anomaly_model.pkl")
 
 def train_model():
-    df = pd.read_csv("app/data/creditcard.csv")
+    df = pd.read_csv("app/data/sample_creditcard.csv")
     features = df.drop(columns=["Time", "Class"])  # drop unnecessary columns
     clf = IsolationForest(contamination=0.001, random_state=42)
     clf.fit(features)
