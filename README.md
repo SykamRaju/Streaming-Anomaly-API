@@ -1,8 +1,4 @@
-# Streaming-Anomaly-API
-
-Streaming Anomaly API
-
-# 🚨 Streaming-Anomaly-API
+# 🧠 Streaming Anomaly Detection API
 
 Real-time anomaly detection for credit card transactions using Isolation Forest and FastAPI.
 
@@ -14,9 +10,15 @@ Real-time anomaly detection API using Isolation Forest on credit card transactio
 - ✅ Live simulation using Python script
 - ✅ Deployed on Render (free tier)
 
+![Python](https://img.shields.io/badge/Made%20With-Python-blue)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-green)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-orange)
+![Deployed](https://img.shields.io/badge/Hosted%20On-Render%20+%20Streamlit-brightgreen)
+
 ## 🛰️ Live Demo
 
-Test the API at: 👉 [https://streaming-anomaly-api.onrender.com/docs](https://streaming-anomaly-api.onrender.com/docs)
+- 🔗 [FastAPI Backend (Swagger UI)](https://streaming-anomaly-api.onrender.com/docs)
+- 📊 [Streamlit Dashboard (Frontend UI)](https://streaming-anomaly-api.streamlit.app)
 
 ## 🧠 Features
 
